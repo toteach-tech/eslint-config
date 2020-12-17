@@ -37,9 +37,6 @@
     "type": "git",
     "url": "git+https://github.com/toteach-tech/eslint-config.git"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "devDependencies": {
     "eslint": "^6.6.0",
     "eslint-plugin-import": "^2.18.2",
